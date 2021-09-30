@@ -1,0 +1,4 @@
+--color
+--require spec_helper
+--format documentation #tells me what the test actually is
+
